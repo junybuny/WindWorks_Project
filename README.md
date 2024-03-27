@@ -2,9 +2,6 @@
 ![1 메인화면(전체)](https://github.com/Sangwonsdsd/WindWorks_Project/assets/91966029/51ec4fc1-85aa-4898-9764-7deaad617d73)
 > 필수적인 기능, 언제 어디서든, 쉽고 효율적으로 사용 할 수 있는 그룹웨어 서비스
 
-## 전체 보기
-[WindsWorks 프로젝트.pdf](https://github.com/Sangwonsdsd/WindWorks_Project/files/14344514/WindsWorks.pdf)
-
 ## 프로젝트 개요
 
 - 개발 기간: 2023-11-20 ~ 2023-01-02
@@ -35,6 +32,9 @@
 ## 주요 기능
 
 ![WindsWorks 프로젝트_24](https://github.com/Sangwonsdsd/WindWorks_Project/assets/91966029/da7db1ff-d65c-43f1-8950-451f39d08b4b)
+
+## 전체 보기
+[WindsWorks 프로젝트.pdf](https://github.com/Sangwonsdsd/WindWorks_Project/files/14344514/WindsWorks.pdf)
 
 ## 팀원 소개
 

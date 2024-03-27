@@ -29,20 +29,6 @@
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
-## 사용 라이브러리및 API
--
--
--
--
--
-
-## 실행 방법
-
-
-## 주요 기능
-
-
-
 ## 팀원 소개
 
 | 이름 | 포지션 | Contact |
